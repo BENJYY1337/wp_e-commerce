@@ -1,0 +1,6 @@
+2020-07-24T07:42:09+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') dans F:\Localhost\www\ecfwordpress\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php à la ligne 87
+
+2020-07-24T08:18:06+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') dans F:\Localhost\www\ecfwordpress\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php à la ligne 87
+
+2020-07-24T08:36:03+00:00 CRITICAL require(): Failed opening required '' (include_path='.;C:\php\pear') dans F:\Localhost\www\ecfwordpress\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php à la ligne 87
+
